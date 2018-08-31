@@ -2,7 +2,7 @@
 """
 Created on Tue Jun 19 21:03:59 2018
 
-@author: 우람s
+@author: 우람ss
 """
 
 import pandas as pd
