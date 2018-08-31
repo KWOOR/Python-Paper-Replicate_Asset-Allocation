@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 19 21:03:59 2018
+
+@author: 우람
+"""
 
 import pandas as pd
 import numpy as np
@@ -170,3 +176,14 @@ plt.plot(momvwpf['cumret'], label='MoMVW Cumret')
 plt.plot(minvar['cumret'], label='MinVar Cumret')
 plt.legend(loc='upper left')
 plt.show()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
